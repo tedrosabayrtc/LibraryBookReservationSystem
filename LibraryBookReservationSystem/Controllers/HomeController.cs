@@ -10,6 +10,7 @@ namespace LibraryBookReservationSystem.Controllers
     {
         public ActionResult Index()
         {
+            //This returns view
             return View();
         }
 
